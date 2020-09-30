@@ -11,12 +11,26 @@ li{
 }
 
 nav ul{
-    background-color: rgb(109, 17, 17);
+    background-color: rgb(54, 20, 20);
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 a{
     text-decoration: none;
+    color:aliceblue;
 }
+
 img{
     height: 400px;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+h3{
+    text-decoration: underline;
+    color: rgb(54, 20, 20);
 }
